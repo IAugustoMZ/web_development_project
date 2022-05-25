@@ -1,4 +1,4 @@
-# Project of the Web Development Course
+# Projects of the Web Development Course
 
 Hello! Welcome to my web development project repository. Here you will be able to find all my web sites and web applications projects
 

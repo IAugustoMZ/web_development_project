@@ -1,0 +1,14 @@
+/* class for background management */
+.body_background{
+  background-image: url("../img/background.jpeg");  
+}
+
+/* main div style */
+#main_page_full_cont{
+    width: 500px;
+}
+
+/* main image container */
+#main_image_cont{
+    width: 100%;
+}
