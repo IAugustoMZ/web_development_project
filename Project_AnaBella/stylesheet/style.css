@@ -1,14 +1,81 @@
-/* class for background management */
-.body_background{
-  background-image: url("../img/background.jpeg");  
+/* class for body management */
+.body_style{
+  background-image: url("../img/background.jpeg");
+  background-color: #d2d2c1;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;  
 }
+
+/* class for links */
+.link_style:link{
+  color: #4b566a;
+  text-decoration: none;
+}
+
+.link_style:visited{
+  color: #4b566a;
+}
+
+.link_style:hover{
+  color: #ffffff;
+}
+
+/* class for the content container */
+.content_container{
+  width: 750px;
+  background-color: #c5c5b2;
+}
+
+/* class for navigation menu */
+.nav_menu{
+  width: 740px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #4b566a;
+}
+
+/* class for navigation items menu */
+.nav_item{
+  padding: 10px;
+  font-weight: bolder;
+  color: #4b566a;
+}
+
+/* class for copyright */
+.copyright{
+  text-align: center;
+  padding: 30px;
+  font-weight: bolder;
+}
+
+/* class for model_imgs */
+.model_imgs{
+  width: 650px;
+  padding: 10px;
+  background-color: #c5c5b2;
+}
+
+/* ------------------------------------------------------------------------------------------------ */
 
 /* main div style */
 #main_page_full_cont{
-    width: 500px;
+    width: 745px;
 }
 
 /* main image container */
 #main_image_cont{
-    width: 100%;
+    width: 750px;
+}
+
+/* main div text style */
+#main_desc{
+  width:730px;
+  background-color: #e0e0d1;
+  padding: 10px;
+}
+
+#main_title{
+  color: #84865f;
 }
